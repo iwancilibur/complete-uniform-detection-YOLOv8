@@ -1,19 +1,19 @@
-# 🎒 Uniform Detection Software 👞 
+# 🎒 Perangkat Lunak Deteksi Seragam 👞 
 
-This repository houses the source code for the Uniform Detection Software, as described in the paper ["Development of a Uniform Detection Software Using YOLOv8 Algorithm for the University of Southern Mindanao Students"](https://github.com/gisketch/complete-uniform-detection-YOLOv8/files/11717858/THESIS.MANUSCRIPT.pdf) by Joshua Tejedor. I took charge of programming and development for this project. The software employs the YOLOv8 algorithm to analyze video footage captured by a camera, enabling it to determine whether students at the University of Southern Mindanao (USM) are wearing complete or incomplete uniforms.
+Repositori ini menyimpan kode sumber untuk Perangkat Lunak Deteksi Seragam, seperti yang dijelaskan dalam jurnal ["Development of a Uniform Detection Software Using YOLOv8 Algorithm for the University of Southern Mindanao Students"](https://github.com/gisketch/complete-uniform-detection-YOLOv8/files/11717858/THESIS.MANUSCRIPT.pdf) oleh Joshua Tejedor. Saya bertanggung jawab atas pemrograman dan pengembangan untuk proyek ini. Perangkat lunak ini menggunakan algoritma YOLOv8 untuk menganalisis rekaman video yang diambil oleh kamera, yang memungkinkannya untuk menentukan apakah mahasiswa di Universitas Mindanao Selatan (USM) mengenakan seragam lengkap atau tidak lengkap.
 
 ## Summary
 
-The Uniform Detection Software is an advanced application that utilizes the YOLOv8 algorithm for real-time object detection to determine whether University of Southern Mindanao (USM) students are wearing complete or incomplete uniforms. By analyzing video footage, the software accurately identifies students and logs their uniform status, promoting a more organized and disciplined campus environment. With its efficient and automated approach, the software replaces manual inspections, saving time and ensuring compliance with the university's dress code policy.
+Perangkat Lunak Deteksi Seragam adalah aplikasi canggih yang menggunakan algoritma YOLOv8 untuk deteksi objek secara real-time guna menentukan apakah mahasiswa Universitas Mindanao Selatan (USM) mengenakan seragam lengkap atau tidak lengkap. Dengan menganalisis rekaman video, perangkat lunak tersebut secara akurat mengidentifikasi mahasiswa dan mencatat status seragam mereka, sehingga tercipta lingkungan kampus yang lebih teratur dan disiplin. Dengan pendekatan yang efisien dan otomatis, perangkat lunak tersebut menggantikan inspeksi manual, menghemat waktu, dan memastikan kepatuhan terhadap kebijakan tata tertib universitas.
 
 ## Features
 
-The Uniform Detection Software offers the following features:
+Perangkat Lunak Deteksi Seragam menawarkan fitur-fitur berikut:
 
-- Real-time detection of students wearing complete or incomplete uniforms
-- Logging of detected students with details such as time of detection, gender, and uniform completeness
-- Database of logs for further analysis and record-keeping
-- User-friendly interface for easy interaction
+- Deteksi real-time siswa yang mengenakan seragam lengkap atau tidak lengkap
+- Pencatatan siswa yang terdeteksi dengan rincian seperti waktu deteksi, jenis kelamin, dan kelengkapan seragam
+- Basis data log untuk analisis lebih lanjut dan penyimpanan catatan
+- Antarmuka yang ramah pengguna untuk interaksi yang mudah
 
 ## Installation
 
